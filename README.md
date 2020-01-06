@@ -1,3 +1,6 @@
+open with npm run dev
+open html in browser
+
 # Heather Till's Console Resume
 
 Objectives
